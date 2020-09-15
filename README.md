@@ -34,10 +34,10 @@ Nguyễn Công Phi KTPM 2019 <br> Sinh viên năm 2 rồi chán ghê....
     - Phi đây
         - Phi nữa đây
             - Hello Phi
-                - Đệ quy never die
-\n                
+                - Đệ quy never die               
 <br> Mấy cái sau ra hình vuông hết rồi hic.
 <br> Mình là `Phi` nhấn mạnh chưa =))))
 <br> Ơ cái nhấn mạnh này giống CodeLearn nè :v
 <br> Giờ chèn link instagram nè [Nguyễn Công Phi đẹp trai](https://www.instagram.com/nguyencongphi312/)
 <br> Ơ giờ làm sao thoát dòng ra nhỉ, toang cmnr
+<br> Mai mốt tra gì cứ vô trang này nhé <https://markdown-it.github.io/>
