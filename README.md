@@ -11,3 +11,6 @@ Nguyễn Công Phi KTPM 2019 <br> Sinh viên năm 2 rồi chán ghê....
 <br>Tui thích in nghiêng
     <br>+ *italic*
     <br>+ _italic_
+> Thử cái blackquote gì nhỉ 
+>> Hai cái thử xem sao
+>>> Này là cái thứ 3
