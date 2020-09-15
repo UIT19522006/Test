@@ -19,4 +19,12 @@ Nguyễn Công Phi KTPM 2019 <br> Sinh viên năm 2 rồi chán ghê....
 1. Nguyễn Công Phi
     1. Sinh Nhật: 03/12/2001
     2. SĐT: 0329418197
-    
+<br> Này là 1 kiểu đề mục mới:
+* Ahihi
+* Mình đây 
+- Nhớ mình không 
+- Mình thì không nhớ bạn nhé =)))
+    - Thụt vào trong được không nhỉ
+    - Thụt cái nữa
++ Giờ lại nhảy ra ngoài
++ Lại là dấu cộng
